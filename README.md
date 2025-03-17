@@ -24,5 +24,5 @@
 - `data/`: Папка с данными.
 - `README.md`: Описание проекта.
 ## Видео-демонстрация
-[Ссылка на видео](video123.mp4) или встроенное видео ниже:
+([video123.mp4](https://github.com/ChexRus/predictive_maintenance_project/blob/main/video/video123.mp4)) или встроенное видео ниже:
 <video src="video/demo.mp4" controls width="100%"></video>
