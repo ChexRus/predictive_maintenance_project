@@ -23,6 +23,7 @@
 - `requirements.txt`: Файл с зависимостями.
 - `data/`: Папка с данными.
 - `README.md`: Описание проекта.
+- `video/`: Папка с видео-демонстрацией.
 ## Видео-демонстрация
 (https://github.com/ChexRus/predictive_maintenance_project/blob/main/video/demo.mp4)) или встроенное видео ниже:
 
